@@ -3,18 +3,18 @@
 
   🔭 **I’m currently working as..**
   
-  an Front-End Developer using Vue.js ([resume](https://www.notion.so/EUNHEE-JU-DEVELOPER-11d8a0c171b34a94b1281d0b12f44639))
+  an Front-End Developer using Vue.js ([resume](motion주소..))
   
   📫 **How to reach me:**
 
-  charmjeh@gmail.com
+  songseop.tech@gmail.com
 
   📚 **Languages That I Know**
 
   #### Backend
-  ![Node.js](https://img.shields.io/badge/Nodejs-339933?logo=Node.js&logoColor=white&style=flat-square)
-  ![PHP](https://img.shields.io/badge/PHP-777BB4?logo=PHP&logoColor=white&style=flat)
-  ![Express](https://img.shields.io/badge/Express-F66600?logo=Express&logoColor=white&style=flat)
+  ![Node.js]()
+  ![PHP]()
+  ![Express]()
 
   #### Frontend
   ![Vue.js](https://img.shields.io/badge/Vuejs-41B883?logo=Vuejs&logoColor=black&style=flat)
