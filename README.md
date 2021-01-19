@@ -1,5 +1,7 @@
 
-### Hi 👋
+### Hi all~ 👋
+
+
 
    👨‍💻 **I’m currently working as..**
   
@@ -7,9 +9,11 @@
   
   
   
+  
    💁‍♂️ **How to reach me:**
 
   songseop.tech@gmail.com
+  
   
   
 
