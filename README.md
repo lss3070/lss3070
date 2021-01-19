@@ -20,7 +20,7 @@ aa
   ![Vue.js](https://img.shields.io/badge/Vuejs-41B883?logo=Vuejs&logoColor=black&style=flat)
   ![Javascript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=JavaScript&logoColor=black&style=flat)
   ![jQuery](https://img.shields.io/badge/jQuery-0769AD?logo=jQuery&logoColor=white&style=flat)
-  ![.Net](https://img.shields.io/badge/jQuery-0769AD?logo=.NET&logoColor=white&style=flat)
+  ![.Net](https://img.shields.io/badge/.NET-0769AD?logo=.NET&logoColor=white&style=flat)
 
   #### Database
   ![Oracle](https://img.shields.io/badge/MySQL-4479A1?logo=MySQL&logoColor=white&style=flat)
