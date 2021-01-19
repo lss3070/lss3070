@@ -12,7 +12,7 @@
   📚 **Languages That I Know**
 aa
   #### Backend
-  ![C#](https://img.shields.io/badge/C#-41B883?logo=CSharp&logoColor=black&style=flat)
+  ![C#](https://img.shields.io/badge/CSharp-41B883?logo=CSharp&logoColor=black&style=flat)
   ![Express]()
   ![Noe.js]()
 
