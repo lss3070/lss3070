@@ -1,18 +1,20 @@
 
-### Hi👋👋👋
+### Hi 👋
 
-  🔭 **I’m currently working as..**
+   👨‍💻 **I’m currently working as..**
   
-  an Front-End Developer using Vue.js ([resume](motion주소..))
+  an Full-Stack Developer using DotNet and Vue.js ([resume](motion주소..))
   
-  📫 **How to reach me:**
+   💁‍♂️ **How to reach me:**
 
   songseop.tech@gmail.com
 
   📚 **Languages That I Know**
 
   #### Backend
-   ![C#](https://img.shields.io/badge/C#-239120?logo=C%20Sharp&logoColor=black&style=flat)
+   ![C#](https://img.shields.io/badge/CSharp-239120?logo=C%20Sharp&logoColor=white&style=flat)
+   ![Node.js](https://img.shields.io/badge/Node.js-339933?logo=Node.js&logoColor=white&style=flat)
+   ![Express](https://img.shields.io/badge/Express-F16521?logo=&style=flat)
   
   #### Frontend
   ![Vue.js](https://img.shields.io/badge/Vuejs-41B883?logo=Vuejs&logoColor=black&style=flat)
@@ -32,7 +34,7 @@
 
   #### Tools
   ![Git](https://img.shields.io/badge/Git-F05032?logo=Git&logoColor=white&style=flat)
-  ![Svn](https://img.shields.io/badge/Git-F05032?logo=Git&logoColor=white&style=flat)
+  ![Svn](https://img.shields.io/badge/Svn-F05032?&style=flat)
   ![VSCode](https://img.shields.io/badge/VSCode-007ACC?logo=Visual%20Studio%20Code&logoColor=white&style=flat)
   ![VisualStudio](https://img.shields.io/badge/VisualStudio-007ACC?logo=Visual%20Studio&logoColor=white&style=flat)
 
