@@ -23,7 +23,7 @@ aa
   ![.Net](https://img.shields.io/badge/.NET-0769AD?logo=.NET&logoColor=white&style=flat)
 
   #### Database
-  ![Oracle](https://img.shields.io/badge/MySQL-4479A1?logo=MySQL&logoColor=white&style=flat)
+  ![Oracle](https://img.shields.io/badge/Oracle-4479A1?logo=Oracle&logoColor=white&style=flat)
 
   #### Publish
   ![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=HTML5&logoColor=white&style=flat)
@@ -33,7 +33,8 @@ aa
 
   #### Tools
   ![Git](https://img.shields.io/badge/Git-F05032?logo=Git&logoColor=white&style=flat)
-  ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=Docker&logoColor=white&style=flat)
+  ![Git](https://img.shields.io/badge/Git-F05032?logo=Git&logoColor=white&style=flat)
+  ![VSCode](https://img.shields.io/badge/VSCode-007ACC?logo=Visual%20Studio%20Code&logoColor=white&style=flat)
   ![VSCode](https://img.shields.io/badge/VSCode-007ACC?logo=Visual%20Studio%20Code&logoColor=white&style=flat)
 
 
