@@ -28,7 +28,7 @@
   #### Frontend
   ![Vue.js](https://img.shields.io/badge/Vuejs-41B883?logo=Vuejs&logoColor=black&style=flat)
   ![Javascript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=JavaScript&logoColor=black&style=flat)
-  ![Typescript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=TypeScript&logoColor=blue&style=flat)
+  ![Typescript](https://img.shields.io/badge/TypeScript-F7DF1E?logo=TypeScript&logoColor=blue&style=flat)
   ![jQuery](https://img.shields.io/badge/jQuery-0769AD?logo=jQuery&logoColor=white&style=flat)
   ![.Net](https://img.shields.io/badge/.NET-0769AD?logo=.NET&logoColor=white&style=flat)
   ![Three.js](https://img.shields.io/badge/Three.js-000000?logo=Three.js&logoColor=white&style=flat)
