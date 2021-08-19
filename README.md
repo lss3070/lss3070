@@ -28,7 +28,7 @@
   
   #### Frontend
   ![React](https://img.shields.io/badge/React-0088CC?logo=React&logoColor=white&style=flat)
-  ![Javascript](https://img.shields.io/badge/JavaScript-323330?logoColor=white&style=flat&logo=JavaScript)
+  ![Javascript](https://img.shields.io/badge/JavaScript-F6C915?logoColor=white&style=flat&logo=JavaScript)
   ![Typescript](https://img.shields.io/badge/TypeScript-3178C6?logo=TypeScript&logoColor=white&style=flat)
   ![jQuery](https://img.shields.io/badge/jQuery-0769AD?logo=jQuery&logoColor=white&style=flat)
   ![.Net](https://img.shields.io/badge/.NET-512BD4?logo=.NET&logoColor=white&style=flat)
