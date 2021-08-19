@@ -23,7 +23,7 @@
    ![C#](https://img.shields.io/badge/CSharp-239120?logo=C%20Sharp&logoColor=white&style=flat)
    ![Node.js](https://img.shields.io/badge/Node.js-339933?logo=Node.js&logoColor=white&style=flat)
    ![Express](https://img.shields.io/badge/Express-F16521?logo=Express&style=flat)
-   ![Vue.js](https://img.shields.io/badge/Nestjs-E0234E?logo=Nestjs&logoColor=white&style=flat)
+   ![Nest.js](https://img.shields.io/badge/Nestjs-E0234E?logo=Nestjs&logoColor=white&style=flat)
   
   
   #### Frontend
@@ -38,6 +38,7 @@
 
   #### Database
   ![Oracle](https://img.shields.io/badge/Oracle-4479A1?logo=Oracle&logoColor=white&style=flat)
+  ![PostgresSQL](https://img.shields.io/badge/PostgresSQL-4169E1?logoPostgresSQL&logoColor=white&style=flat)
 
 
   #### Publish
