@@ -22,7 +22,8 @@
   #### Backend
    ![C#](https://img.shields.io/badge/CSharp-239120?logo=C%20Sharp&logoColor=white&style=flat)
    ![Node.js](https://img.shields.io/badge/Node.js-339933?logo=Node.js&logoColor=white&style=flat)
-   ![Express](https://img.shields.io/badge/Express-F16521?logo=&style=flat)
+   ![Express](https://img.shields.io/badge/Express-F16521?logo=Express&style=flat)
+   ![Vue.js](https://img.shields.io/badge/Nestjs-41B883?logo=Nestjs&logoColor=white&style=flat)
   
   
   #### Frontend
