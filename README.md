@@ -26,6 +26,7 @@
   
   
   #### Frontend
+  ![Vue.js](https://img.shields.io/badge/React-41B883?logo=React&logoColor=black&style=flat)
   ![Vue.js](https://img.shields.io/badge/Vuejs-41B883?logo=Vuejs&logoColor=black&style=flat)
   ![Javascript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=JavaScript&logoColor=black&style=flat)
   ![Typescript](https://img.shields.io/badge/TypeScript-0769AD?logo=TypeScript&logoColor=white&style=flat)
