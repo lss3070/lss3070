@@ -38,7 +38,7 @@
 
   #### Database
   ![Oracle](https://img.shields.io/badge/Oracle-4479A1?logo=Oracle&logoColor=white&style=flat)
-  ![PostgresSQL](https://img.shields.io/badge/PostgresSQL-4169E1?logo=PostgresSQL&logoColor=white&style=flat)
+  ![PostgresSQL](https://img.shields.io/badge/PostgresSQL-4169E1?logo=Postgres&logoColor=white&style=flat)
 
 
   #### Publish
