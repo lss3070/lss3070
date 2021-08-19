@@ -23,11 +23,11 @@
    ![C#](https://img.shields.io/badge/CSharp-239120?logo=C%20Sharp&logoColor=white&style=flat)
    ![Node.js](https://img.shields.io/badge/Node.js-339933?logo=Node.js&logoColor=white&style=flat)
    ![Express](https://img.shields.io/badge/Express-F16521?logo=Express&style=flat)
-   ![Vue.js](https://img.shields.io/badge/Nestjs-41B883?logo=Nestjs&logoColor=white&style=flat)
+   ![Vue.js](https://img.shields.io/badge/Nestjs-E0234E?logo=Nestjs&logoColor=white&style=flat)
   
   
   #### Frontend
-  ![Vue.js](https://img.shields.io/badge/React-41B883?logo=React&logoColor=white&style=flat)
+  ![React](https://img.shields.io/badge/React-61DAFB?logo=React&logoColor=white&style=flat)
   ![Javascript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=JavaScript&logoColor=black&style=flat)
   ![Typescript](https://img.shields.io/badge/TypeScript-0769AD?logo=TypeScript&logoColor=white&style=flat)
   ![jQuery](https://img.shields.io/badge/jQuery-0769AD?logo=jQuery&logoColor=white&style=flat)
