@@ -5,7 +5,7 @@
 
    👨‍💻 **I’m currently working as..**
   
-  an Full-Stack Developer using DotNet and Vue.js ([resume]https://hospitable-drifter-ecc.notion.site/SubSubee-Web-Deveploer-40c18be6aa4d41bf8159e6aa2c018014)
+  an Full-Stack Developer using DotNet and Vue.js ([resume](https://hospitable-drifter-ecc.notion.site/SubSubee-Web-Deveploer-40c18be6aa4d41bf8159e6aa2c018014))
   
   
   
