@@ -28,17 +28,17 @@
   
   #### Frontend
   ![React](https://img.shields.io/badge/React-61DAFB?logo=React&logoColor=white&style=flat)
-  ![Javascript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=JavaScript&logoColor=black&style=flat)
-  ![Typescript](https://img.shields.io/badge/TypeScript-0769AD?logo=TypeScript&logoColor=white&style=flat)
+  ![Javascript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=JavaScript&logoColor=white&style=flat)
+  ![Typescript](https://img.shields.io/badge/TypeScript-3178C6?logo=TypeScript&logoColor=white&style=flat)
   ![jQuery](https://img.shields.io/badge/jQuery-0769AD?logo=jQuery&logoColor=white&style=flat)
-  ![.Net](https://img.shields.io/badge/.NET-0769AD?logo=.NET&logoColor=white&style=flat)
+  ![.Net](https://img.shields.io/badge/.NET-512BD4?logo=.NET&logoColor=white&style=flat)
   ![Three.js](https://img.shields.io/badge/Three.js-000000?logo=Three.js&logoColor=white&style=flat)
   ![WebGL](https://img.shields.io/badge/WebGL-990000?logo=WebGL&logoColor=white&style=flat)
   
 
   #### Database
   ![Oracle](https://img.shields.io/badge/Oracle-4479A1?logo=Oracle&logoColor=white&style=flat)
-  ![PostgresSQL](https://img.shields.io/badge/PostgresSQL-4169E1?logo=Postgres&logoColor=white&style=flat)
+  ![PostgresSQL](https://img.shields.io/badge/Postgres-4169E1?logo=Postgres&logoColor=white&style=flat)
 
 
   #### Publish
